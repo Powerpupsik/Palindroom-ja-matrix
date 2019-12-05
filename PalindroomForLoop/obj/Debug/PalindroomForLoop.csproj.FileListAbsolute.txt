@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\bin\Debug\PalindroomForLoop.exe.config
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\bin\Debug\PalindroomForLoop.exe
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\bin\Debug\PalindroomForLoop.pdb
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\obj\Debug\PalindroomForLoop.csprojAssemblyReference.cache
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\obj\Debug\PalindroomForLoop.exe
+C:\Users\opilane\projects\PalindroomForLoop\PalindroomForLoop\obj\Debug\PalindroomForLoop.pdb

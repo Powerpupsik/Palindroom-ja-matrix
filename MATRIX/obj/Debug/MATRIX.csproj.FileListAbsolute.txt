@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\bin\Debug\MATRIX.exe.config
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\bin\Debug\MATRIX.exe
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\bin\Debug\MATRIX.pdb
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\obj\Debug\MATRIX.csprojAssemblyReference.cache
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\obj\Debug\MATRIX.exe
+C:\Users\opilane\projects\PalindroomForLoop\MATRIX\obj\Debug\MATRIX.pdb
